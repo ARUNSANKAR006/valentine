@@ -863,7 +863,7 @@ function App() {
                         <div className="text-center py-6">
                           <div className="text-6xl mb-4">🌟</div>
                           <p className="text-pink-600 text-xl" style={{ fontFamily: 'Dancing Script, cursive' }}>
-                            Your wish has been sent to the stars! ✨
+                            Your wish has been sent to Your Loving Person ! ✨
                           </p>
                           <p className="text-pink-400 text-sm mt-2">The universe heard your heart today 💫</p>
                         </div>
